@@ -1,0 +1,20 @@
+working-directory: /home/rbedera/
+folder-name: vip1_rnaseq
+genome: /home/rbedera/roda_samples/chlamydomonas_reinhardtii.fa.gz
+annotation: /home/rbedera/roda_samples/chlamydomonas_reinhardtii.gtf.gz
+
+number-samples: 12
+sample1: /home/rbedera/roda_samples/wt_cl_a.fq.gz
+sample2: /home/rbedera/roda_samples/wt_cl_b.fq.gz
+sample3: /home/rbedera/roda_samples/wt_cl_c.fq.gz
+sample4: /home/rbedera/roda_samples/wt_hl_a.fq.gz
+sample5: /home/rbedera/roda_samples/wt_hl_b.fq.gz
+sample6: /home/rbedera/roda_samples/wt_hl_c.fq.gz
+sample7: /home/rbedera/roda_samples/vip_cl_a.fq.gz
+sample8: /home/rbedera/roda_samples/vip_cl_b.fq.gz
+sample9: /home/rbedera/roda_samples/vip_cl_c.fq.gz
+sample10: /home/rbedera/roda_samples/vip_hl_a.fq.gz
+sample11: /home/rbedera/roda_samples/vip_hl_b.fq.gz
+sample12: /home/rbedera/roda_samples/vip_hl_c.fq.gz
+
+scripts-folder: /home/rbedera/rnaseq_scripts
