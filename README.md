@@ -13,7 +13,7 @@ Rodrigo Bedera García
 
 ## 1. Summary
 
-The pipeline consists of 3 scripts that run subsequently, namely pipernas.sh, sample_processing.sh and transcriptome_merging.sh. Pipernas.sh prepares the workspace and builds the index. When done, runs sample_processing.sh for each replicate. Sample_processing.sh performs quality control, sequence alignment and gene expression quantification. The output is prepared for downstream analysis with ballgown. Transcriptome_merging.sh merges the transcriptome of each sample and compares it to the annotated transcriptome. 
+The pipeline consists of 3 scripts that run subsequently, namely pipernas.sh, sample_processing.sh and transcriptome_merging.sh. Pipernas.sh prepares the workspace and builds the index. When done, runs sample_processing.sh for each replicate. Sample_processing.sh performs quality control, sequence alignment and gene expression quantification. Transcriptome_merging.sh merges the transcriptome of each sample and compares it to the annotated transcriptome. The output is prepared for downstream analysis with ballgown. Downstream_analysis.R file shows an example of a downstream analysis, for which the pheno_data.csv file is required
 
 ## 2. Installation
 
