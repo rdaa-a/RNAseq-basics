@@ -1,5 +1,6 @@
 # RNAseq-basics
-Scripts for preliminary analysis of RNA-seq data
+Scripts for preliminary analysis of RNA-seq data.
+Parameters_file.txt is required for pipernas.sh running parameters, and pheno_data.csv is required for downstream_analysis.R functions.
 
 #### Author
 Rodrigo Bedera García
