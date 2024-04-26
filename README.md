@@ -41,10 +41,16 @@ The R script needs to be modified manually and is presented only as a demonstrat
 ## 5. Parameters
 
 working-directory: The main directory where the working folder will be created
+
 folder-name: The directory name of the workspace that will be created
+
 genome: Path to genome file (.fa)
+
 annotation: Path to annotation file (.gtf)
+
 number-samples: Number of samples in the analysis
+
 sampleX: Number of sample, and path to the fq.gz file. Add or remove lines to match your sample number
+
 scripts-folder: Path to the folder where the bash scripts are located.
 
